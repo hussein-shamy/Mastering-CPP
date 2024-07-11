@@ -1,5 +1,5 @@
 //============================================================================
-// Name        : main.cpp
+// Name        : MainProject.cpp
 // Author      : 
 // Version     :
 // Copyright   : Your copyright notice
@@ -10,6 +10,6 @@
 using namespace std;
 
 int main() {
-	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
+	cout << "Hello C++" << endl; // prints Hello C++
 	return 0;
 }
